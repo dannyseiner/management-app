@@ -1,0 +1,16 @@
+.main-container {
+  width: 70%;
+  min-width: 350px;
+  height: fit-content;
+  min-height: 50vh;
+  background-color: #fefefe;
+  margin: 80px auto;
+  border-radius: 20px;
+  padding: 20px;
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 8px 24px;
+}
+
+.div-center {
+  width: fit-content;
+  margin: 0px auto;
+}
